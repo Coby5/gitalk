@@ -1,2 +1,2 @@
 # README 
-gitment for blog  
+gitalk for blog  
